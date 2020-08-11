@@ -1,7 +1,6 @@
 import React from 'react';
-import logo from '../../logo.svg';
 
-    const Contact = () => (
+const Contact = () => (
     <>
   <div class="flex mb-4 bg-yellow-400 sm:bg-yellow-400 md:bg-yellow-400 lg:bg-yellow-400 xl:yellow-400 h-auto">
   <div class="w-1/2">
